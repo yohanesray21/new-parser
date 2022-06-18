@@ -1,0 +1,10 @@
+api,argument 1,argument 2,argument 3,argument 4,return_value
+A,argA,null,null,null,null
+B,argA,numberB,null,null,new_pid=1234
+C,argC,null,null,null,null
+J,numberB,argC,null,null,null
+K,argK,null,null,null,null
+L,numberB,argL,argK,null,null
+Z,null,null,null,null,null
+X,argL,null,null,null,null
+G,null,argC,null,null,null
